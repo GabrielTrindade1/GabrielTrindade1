@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <h1 align="center">Olá, sou o Gabriel</h1>
 
